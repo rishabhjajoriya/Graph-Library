@@ -6,13 +6,13 @@ An abstract base class Graph is used to model a graph. The derived classes Direc
 Currently added features:
 
 
-Create a Graph with N vertices.
+1)Create a Graph with N vertices.
 
-Add an unweighted edge between two vertices u,v.
+2)Add an unweighted edge between two vertices u,v.
 
-Add a weighted edge between two vertices u,v.
+3)Add a weighted edge between two vertices u,v.
 
-Traverse the Graph using BFS or DFS.
+4)Traverse the Graph using BFS or DFS.
 
-Check if the Graph is cyclic.
+5)Check if the Graph is cyclic.
 
